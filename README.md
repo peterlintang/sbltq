@@ -2,3 +2,4 @@ sbltq
 =====
 
 test
+init
